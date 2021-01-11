@@ -3,7 +3,7 @@ body {
 }
 
 #title {
-    background-color: lightsalmon;
+    background-color: skyblue;
     color: #fff;
     text-align: left;
 }
@@ -89,15 +89,15 @@ p {
     padding:  5%;
 }
 .icon {
-    color: palevioletred;
+    color: skyblue;
     margin-bottom: 1rem;
 }
 .icon:hover {
-    color: lightsalmon;
+    color: lightseagreen;
 }
 #tepteptep {
     text-align: center;
-    background-color: lightsalmon;
+    background-color: skyblue;
     color: #fff;
 }
 .tepteptep-image {
@@ -124,7 +124,7 @@ p {
     color: black;
 }
 #petpet {
-    background-color: lightsalmon;
+    background-color: skyblue;
     color: #fff;
     padding: 7% 15%;
     text-align: center;
